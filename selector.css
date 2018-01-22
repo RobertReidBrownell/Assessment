@@ -1,0 +1,19 @@
+
+.select-wrapper {
+    width: 245px;
+    height: 38px;
+    overflow: hidden;
+    border: 2px solid darkblue;
+}
+
+select {
+    width: 270px;
+    height: 38px;
+    border: none;
+    background-color: lightblue;
+    font-size: 17px;
+    padding: 3px;
+}
+
+
+/* I didn't have time for the arrow. I believe it is done with a CSS triangle but would love to know how if not */
